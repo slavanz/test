@@ -32,28 +32,28 @@
     [
         "/home/slava/geolocation/force-app/main/default",
         {
+            "state": "u",
             "sourcePath": "/home/slava/geolocation/force-app/main/default",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1513131577607,
             "changeTime": 1513131577607,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
         }
     ],
     [
         "/home/slava/geolocation/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/home/slava/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
-            "modifiedTime": 1513131749940,
-            "changeTime": 1513131749940,
-            "isWorkspace": false,
-            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86"
+            "modifiedTime": 1513131247662,
+            "changeTime": 1513131247662,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -138,53 +138,53 @@
     [
         "/home/slava/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/home/slava/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 4457,
             "modifiedTime": 1513131577615,
             "changeTime": 1513131577615,
-            "contentHash": "b07203be5b54f0b386be1f56467864b68e67c390",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "b07203be5b54f0b386be1f56467864b68e67c390"
         }
     ],
     [
         "/home/slava/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/home/slava/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 17142,
             "modifiedTime": 1513131577647,
             "changeTime": 1513131577647,
-            "contentHash": "1b19f77b701bcc419030905bb142e2d48c6eab14",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "1b19f77b701bcc419030905bb142e2d48c6eab14"
         }
     ],
     [
         "/home/slava/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/home/slava/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 4461,
             "modifiedTime": 1513131577655,
             "changeTime": 1513131577655,
-            "contentHash": "73ad8397e6863de42f0fd812a59698623ba7af38",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "73ad8397e6863de42f0fd812a59698623ba7af38"
         }
     ],
     [
         "/home/slava/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/home/slava/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 4797,
             "modifiedTime": 1513131577659,
             "changeTime": 1513131577659,
-            "contentHash": "8cf9ff9aa4943adae1d59512fb0d4ca8b2dcfbf9",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "8cf9ff9aa4943adae1d59512fb0d4ca8b2dcfbf9"
         }
     ],
     [
@@ -323,7 +323,7 @@
             "sourcePath": "/home/slava/geolocation/force-app/main/default/aura/AccountLocator",
             "isDirectory": true,
             "size": 4096,
-            "modifiedTime": 1513131964005,
+            "modifiedTime": 1513131388182,
             "changeTime": 1513131388182,
             "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
             "isMetadataFile": false,
@@ -346,14 +346,14 @@
     [
         "/home/slava/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "/home/slava/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
+            "size": 156,
+            "modifiedTime": 1513131310354,
+            "changeTime": 1513131310366,
+            "contentHash": "f3f590857881ca3c0ed746a2c23effadffed7691",
             "isMetadataFile": false,
-            "size": 183,
-            "modifiedTime": 1513131963989,
-            "changeTime": 1513131964005,
-            "contentHash": "6d3f6812a6c1b614697dc68dcf06eca006afa56d"
+            "state": "u"
         }
     ],
     [
@@ -450,287 +450,27 @@
     [
         "/home/slava/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/home/slava/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 267,
             "modifiedTime": 1513131577607,
             "changeTime": 1513131577607,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
         }
     ],
     [
         "/home/slava/geolocation/force-app/main/default/tabs",
         {
+            "state": "u",
             "sourcePath": "/home/slava/geolocation/force-app/main/default/tabs",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1513131577607,
             "changeTime": 1513131577607,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/home/slava/geolocation/force-app/main/default/aura/AccountList",
-        {
-            "state": "u",
-            "sourcePath": "/home/slava/geolocation/force-app/main/default/aura/AccountList",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 4096,
-            "modifiedTime": 1513131915913,
-            "changeTime": 1513131915913,
-            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670"
-        }
-    ],
-    [
-        "/home/slava/geolocation/force-app/main/default/aura/AccountListItem",
-        {
-            "state": "u",
-            "sourcePath": "/home/slava/geolocation/force-app/main/default/aura/AccountListItem",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 4096,
-            "modifiedTime": 1513131714047,
-            "changeTime": 1513131714047,
-            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf"
-        }
-    ],
-    [
-        "/home/slava/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
-        {
-            "state": "u",
-            "sourcePath": "/home/slava/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 209,
-            "modifiedTime": 1513131749944,
-            "changeTime": 1513131749944,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
-        }
-    ],
-    [
-        "/home/slava/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
-        {
-            "state": "u",
-            "sourcePath": "/home/slava/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 342,
-            "modifiedTime": 1513131790548,
-            "changeTime": 1513131790568,
-            "contentHash": "86a186b5a8b9068c6299caa05cf1227d8b06b391"
-        }
-    ],
-    [
-        "/home/slava/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/home/slava/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 243,
-            "modifiedTime": 1513131749940,
-            "changeTime": 1513131749940,
-            "contentHash": "cad3497d631bfaa3cddbbd338fcfc07592c1b726"
-        }
-    ],
-    [
-        "/home/slava/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
-        {
-            "state": "u",
-            "sourcePath": "/home/slava/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 108,
-            "modifiedTime": 1513131915901,
-            "changeTime": 1513131915913,
-            "contentHash": "27cafddeda4c72a559e4db5530e8f68452f3fef1"
-        }
-    ],
-    [
-        "/home/slava/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
-        {
-            "state": "u",
-            "sourcePath": "/home/slava/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 40,
-            "modifiedTime": 1513131749944,
-            "changeTime": 1513131749944,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
-        }
-    ],
-    [
-        "/home/slava/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
-        {
-            "state": "u",
-            "sourcePath": "/home/slava/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 661,
-            "modifiedTime": 1513131749940,
-            "changeTime": 1513131749940,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
-        }
-    ],
-    [
-        "/home/slava/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
-        {
-            "state": "u",
-            "sourcePath": "/home/slava/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 256,
-            "modifiedTime": 1513131832304,
-            "changeTime": 1513131832320,
-            "contentHash": "9f73369ca66b087616f3bb8205b8e3f57484b270"
-        }
-    ],
-    [
-        "/home/slava/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "/home/slava/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1513131749940,
-            "changeTime": 1513131749940,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "/home/slava/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "/home/slava/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1513131749940,
-            "changeTime": 1513131749940,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
-        }
-    ],
-    [
-        "/home/slava/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
-        {
-            "state": "u",
-            "sourcePath": "/home/slava/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 209,
-            "modifiedTime": 1513131641079,
-            "changeTime": 1513131641079,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
-        }
-    ],
-    [
-        "/home/slava/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
-        {
-            "state": "u",
-            "sourcePath": "/home/slava/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 121,
-            "modifiedTime": 1513131682347,
-            "changeTime": 1513131682371,
-            "contentHash": "c2ab5bf1904268e2a6f09485e65d23c5c4d91f4a"
-        }
-    ],
-    [
-        "/home/slava/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/home/slava/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 247,
-            "modifiedTime": 1513131641079,
-            "changeTime": 1513131641079,
-            "contentHash": "dc9e3ef3297121e477d211d184a4c93536e11d71"
-        }
-    ],
-    [
-        "/home/slava/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
-        {
-            "state": "u",
-            "sourcePath": "/home/slava/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 171,
-            "modifiedTime": 1513131714035,
-            "changeTime": 1513131714047,
-            "contentHash": "451fd0d05cb763c543025f2a90dcb679337ed0c9"
-        }
-    ],
-    [
-        "/home/slava/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
-        {
-            "state": "u",
-            "sourcePath": "/home/slava/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 40,
-            "modifiedTime": 1513131641079,
-            "changeTime": 1513131641079,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
-        }
-    ],
-    [
-        "/home/slava/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
-        {
-            "state": "u",
-            "sourcePath": "/home/slava/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 661,
-            "modifiedTime": 1513131641079,
-            "changeTime": 1513131641079,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
-        }
-    ],
-    [
-        "/home/slava/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
-        {
-            "state": "u",
-            "sourcePath": "/home/slava/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 65,
-            "modifiedTime": 1513131641079,
-            "changeTime": 1513131641079,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
-        }
-    ],
-    [
-        "/home/slava/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "/home/slava/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1513131641079,
-            "changeTime": 1513131641079,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "/home/slava/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "/home/slava/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1513131641079,
-            "changeTime": 1513131641079,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
         }
     ]
 ]
